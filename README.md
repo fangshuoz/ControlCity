@@ -3,7 +3,7 @@
 [![Hugging Face Model](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-green)](https://huggingface.co/fangshuoz/ControlCity)
 
 ## 📢 News
-2024-09-19: We uploaded the model to HuggingFace <a href="https://huggingface.co/fangshuoz/ControlCity"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Model-green" height="16"></a>
+2024-09-19: We uploaded the model to HuggingFace <a href="https://huggingface.co/fangshuoz/ControlCity"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Model-green" height="16"></a> <br>
 2024-09-13: ControlCity official github repository is officially created.
 
 ## 📦 Repository
