@@ -5,7 +5,9 @@
 
 Fangshuo Zhou,
 Huaxia Li,
-[Liuchang Xu](https://www.researchgate.net/profile/Liuchang-Xu)
+[Liuchang Xu](https://www.researchgate.net/profile/Liuchang-Xu)<sup>*</sup>
+
+<sup>*</sup>corresponding authors
 
 ## 📢 News
 2024-09-24: We uploaded sample data for visitors to perform inference with the model. <br>
