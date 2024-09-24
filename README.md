@@ -3,8 +3,8 @@
 [![Hugging Face Model](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-green)](https://huggingface.co/fangshuoz/ControlCity)
 
 
-[Fangshuo Zhou],
-[Huaxia Li],
+Fangshuo Zhou,
+Huaxia Li,
 [Liuchang Xu](https://www.researchgate.net/profile/Liuchang-Xu)
 
 ## 📢 News
