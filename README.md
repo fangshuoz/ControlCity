@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ```python
 from PIL import Image
-from DiffusionOSM.diffusionosm import (
+from controlcity import (
     OSMControlNetModel,
     DiffusionOSMControlnetPipeline,
     metadata_normalize,
