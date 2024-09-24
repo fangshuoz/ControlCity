@@ -3,11 +3,12 @@
 [![Hugging Face Model](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-green)](https://huggingface.co/fangshuoz/ControlCity)
 
 
-Fangshuo Zhou,
-Huaxia Li,
+[Fangshuo Zhou]<sup>†</sup>,
+[Huaxia Li]<sup>†</sup>,
 [Liuchang Xu](https://www.researchgate.net/profile/Liuchang-Xu)<sup>*</sup>
 
-<sup>*</sup>corresponding authors
+<sup>*</sup>Corresponding authors
+<sup>†</sup>Equal contribution.
 
 ## 📢 News
 2024-09-24: We uploaded sample data for visitors to perform inference with the model. <br>
