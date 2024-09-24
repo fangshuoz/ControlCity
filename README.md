@@ -2,6 +2,11 @@
 
 [![Hugging Face Model](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-green)](https://huggingface.co/fangshuoz/ControlCity)
 
+
+[Fangshuo Zhou],
+[Huaxia Li],
+[Liuchang Xu](https://www.researchgate.net/profile/Liuchang-Xu)
+
 ## 📢 News
 2024-09-24: We uploaded sample data for visitors to perform inference with the model. <br>
 2024-09-19: We uploaded the model to HuggingFace <a href="https://huggingface.co/fangshuoz/ControlCity"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Model-green" height="16"></a>. <br>
