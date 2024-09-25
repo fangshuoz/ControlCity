@@ -13,7 +13,8 @@ Hailin Feng · Zhenhong Du · [Liuchang Xu](https://www.researchgate.net/profile
 
 
 </div>
-![fig-3-3](https://github.com/user-attachments/assets/963bf7a3-f297-42f2-b7d3-c76197c7a739)<div align="center">
+
+<img src='assets/model_architecture.jpg'>
 
 ## 📢 News
 2024-09-24: We uploaded sample data for visitors to perform inference with the model. <br>
