@@ -1,4 +1,4 @@
-
+<div align="center">
 <h1>ControlCity: A Multimodal Diffusion Model Based Approach for Accurate Geospatial Data Generation and Urban Morphology Analysis</h1>
 
 
