@@ -8,7 +8,7 @@ Hailin Feng · Zhenhong Du · [Liuchang Xu](https://www.researchgate.net/profile
 
 <sup>*</sup>Corresponding authors <sup>†</sup>Equal contribution
 
-
+[![Paper](https://img.shields.io/badge/arXiv-PDF-b31b1b)](http://arxiv.org/abs/2409.17049)
 [![Hugging Face Model](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-green)](https://huggingface.co/fangshuoz/ControlCity)
 
 
