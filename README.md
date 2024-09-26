@@ -17,7 +17,7 @@ Hailin Feng · Zhenhong Du · [Liuchang Xu](https://www.researchgate.net/profile
 <img src='assets/model_architecture.jpg'>
 
 ## 📢 News
-2024-09-26: Added the preprint to arxiv<a href="http://arxiv.org/abs/2409.17049"><img src="https://img.shields.io/badge/arXiv-PDF-b31b1b" height="16">. <br>
+2024-09-26: Added the preprint to arxiv <a href="http://arxiv.org/abs/2409.17049"><img src="https://img.shields.io/badge/arXiv-PDF-b31b1b" height="16"></a>. <br>
 2024-09-24: We uploaded sample data for visitors to perform inference with the model. <br>
 2024-09-19: We uploaded the model to HuggingFace <a href="https://huggingface.co/fangshuoz/ControlCity"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Model-green" height="16"></a>. <br>
 2024-09-13: ControlCity official github repository is officially created.
