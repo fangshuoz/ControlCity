@@ -2,7 +2,7 @@
 <h1>ControlCity: A Multimodal Diffusion Model Based Approach for Accurate Geospatial Data Generation and Urban Morphology Analysis</h1>
 
 
-Fangshuo Zhou(https://www.researchgate.net/profile/Fangshuo-Zhou)<sup>†</sup> · Huaxia Li<sup>†</sup> · Rui Hu · Sensen Wu
+[Fangshuo Zhou](https://www.researchgate.net/profile/Fangshuo-Zhou)<sup>†</sup> · Huaxia Li<sup>†</sup> · Rui Hu · Sensen Wu
 
 Hailin Feng · Zhenhong Du · [Liuchang Xu](https://www.researchgate.net/profile/Liuchang-Xu)<sup>*</sup>
 
