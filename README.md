@@ -100,7 +100,7 @@ If you find this work useful for your research, please consider citing:
     year = {2026},
     publisher = {Taylor \& Francis},
     doi = {10.1080/13658816.2026.2639026},
-    URL = {[https://doi.org/10.1080/13658816.2026.2639026](https://doi.org/10.1080/13658816.2026.2639026)},
-    eprint = {[https://doi.org/10.1080/13658816.2026.2639026](https://doi.org/10.1080/13658816.2026.2639026)}
+    URL = {https://doi.org/10.1080/13658816.2026.2639026},
+    eprint = {https://doi.org/10.1080/13658816.2026.2639026}
 }
 ```
